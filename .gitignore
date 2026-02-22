@@ -1,0 +1,11 @@
+build/
+build-*/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+
+# Local large input data
+bigf.json
